@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "TH/Test Note.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "TH/Test Note.md",
     "TH/Note with Attachements.md",
+    "TH/Note 4 in Thai.md",
+    "TH/Note 3 in Thai.md",
     "Untitled.md",
     "EN/Note 1 in English.md",
     "EN/Note 2 in English.md",
-    "TH/Note 3 in Thai.md",
     "EN/Bitcoin.md",
     "TH/Bitcoin.md",
-    "Attachments/hashpire.png",
-    "TH/Note 4 in Thai.md"
+    "Attachments/hashpire.png"
   ]
 }
