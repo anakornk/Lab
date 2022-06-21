@@ -84,18 +84,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "153d44bc5715e102",
   "lastOpenFiles": [
     "TH/Note with Attachements.md",
+    "Untitled.md",
     "EN/Note 1 in English.md",
-    "TH/Bitcoin.md",
+    "EN/Note 2 in English.md",
     "TH/Note 3 in Thai.md",
-    "Attachments/hashpire.png",
     "EN/Bitcoin.md",
-    "TH/Note 4 in Thai.md",
-    "EN/Note 2 in English.md"
+    "TH/Bitcoin.md",
+    "Attachments/hashpire.png",
+    "TH/Note 4 in Thai.md"
   ]
 }

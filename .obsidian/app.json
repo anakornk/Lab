@@ -4,5 +4,6 @@
   "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "promptDelete": false
 }
