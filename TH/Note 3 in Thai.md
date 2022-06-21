@@ -9,4 +9,3 @@
 [Bitcoin](Bitcoin.md)
 [Bitcoin](../EN/Bitcoin.md)
 
-
